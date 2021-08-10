@@ -1,16 +1,19 @@
 install: install-deps
 
-publish:
-    npm publish --dry-run
+run:
+	bin/nodejs-package.js 10
 
-gendiff:
-    npm link
-
-lint: 
-    npx eslint .
+install-deps:
+	npm ci
 
 test:
 	npm test
 
 test-coverage:
 	npm test -- --coverage --coverageProvider=v8
+
+lint:
+	npx eslint .
+
+publish:
+	npm publish --dry-run
