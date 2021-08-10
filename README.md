@@ -3,7 +3,7 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
-[![Linter](https://github.com/Estense/frontend-project-lvl2/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Estense/frontend-project-lvl2/actions/workflows/nodejs.yml)
+[![Node CI](https://github.com/Estense/frontend-project-lvl2/actions/workflowss/Node%20CI/badge.svg)](https://github.com/Estense/frontend-project-lvl2/actions)
 
 ## example 
 <a href="https://asciinema.org/a/VhEJyVLDxICHpqZdyGuTpySnl" target="_blank"><img src="https://asciinema.org/a/VhEJyVLDxICHpqZdyGuTpySnl.svg" width="266" height="200"/></a>
