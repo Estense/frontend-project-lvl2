@@ -4,9 +4,9 @@
   "type": "module",
   "description": "@hexlet second project",
   "main": "gendiff.js",
-  // "scripts": {
-  //   "test": "jest"
-  // },
+   "scripts": {
+     "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Estense/frontend-project-lvl2.git"
