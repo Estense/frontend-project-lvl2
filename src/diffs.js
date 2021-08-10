@@ -5,7 +5,7 @@ const getDiff = (fileName1, fileName2) => {
   const obj1 = getData(fileName1);
   const obj2 = getData(fileName2);
   const a = _.union(Object.keys(obj1), Object.keys(obj2))
-  .sort();
+    .sort();
   const b = a.map((key) => {
     if (_.isEqual(obj1[key], obj2[key])) {
       return `    ${key}: ${obj1[key]}`;

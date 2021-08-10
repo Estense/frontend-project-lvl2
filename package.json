@@ -21,12 +21,14 @@
     "gendiff": "bin/gendiff.js"
   },
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
     "eslint": "^7.29.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4",
     "jest": "^27.0.6"
   },
   "dependencies": {
+    "@jest/globals": "^27.0.6",
     "commander": "^8.1.0",
     "lodash": "^4.17.21"
   }
