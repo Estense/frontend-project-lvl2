@@ -1,5 +1,4 @@
-install:
-    npm ci
+install: install-deps
 
 publish:
     npm publish --dry-run
