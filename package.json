@@ -5,7 +5,7 @@
   "description": "@hexlet second project",
   "main": "gendiff.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest --bail"
   },
   "repository": {
     "type": "git",
