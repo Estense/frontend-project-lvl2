@@ -1,9 +1,6 @@
 import _ from 'lodash';
-import getData from './filePaths.js';
 
-const getDiff = (fileName1, fileName2) => {
-  const obj1 = getData(fileName1);
-  const obj2 = getData(fileName2);
+const getDiff = (obj1, obj2) => {
   const a = _.union(Object.keys(obj1), Object.keys(obj2))
     .sort();
   const b = a.map((key) => {
