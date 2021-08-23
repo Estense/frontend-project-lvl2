@@ -8,4 +8,9 @@
 [![Node CI](https://github.com/Estense/frontend-project-lvl2/actions/workflows/node.js.yml/badge.svg)](https://github.com/Estense/frontend-project-lvl2/actions)
 
 ## example 
-<a href="https://asciinema.org/a/VhEJyVLDxICHpqZdyGuTpySnl" target="_blank"><img src="https://asciinema.org/a/VhEJyVLDxICHpqZdyGuTpySnl.svg" width="266" height="200"/></a>
+
+# JSON
+<a href="https://asciinema.org/a/hdtMQ3XniIGjFPbdWgK0H9AFu" target="_blank"><img src="https://asciinema.org/a/hdtMQ3XniIGjFPbdWgK0H9AFu.svg" width="266" height="200"/></a>
+
+# YAML
+<a href="https://asciinema.org/a/rxkwkEkU9zHEu2FTz8X1Wn8XL" target="_blank"><img src="https://asciinema.org/a/rxkwkEkU9zHEu2FTz8X1Wn8XL.svg" width="266" height="200"/></a>
